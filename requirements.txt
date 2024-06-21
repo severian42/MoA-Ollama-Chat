@@ -1,0 +1,12 @@
+fire
+loguru
+datasets
+python-dotenv
+langchain
+langchain_community
+streamlit
+openai
+crewai == 0.30.10
+crewai-tools
+requests
+gradio
