@@ -172,7 +172,7 @@ def create_gradio_interface():
             
             # Mixture of Agents (MoA) Chat
             
-            Welcome to the future of AI-powered conversations in our new world! This app combines multiple AI models
+            Welcome to the future of AI-powered conversations! This app combines multiple AI models
             to generate responses, merging their strengths for more accurate and diverse outputs.
             
             </div>
