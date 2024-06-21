@@ -89,13 +89,9 @@ OLLAMA_MAX_LOADED_MODELS=4
 
 ## Advanced Usage
 
-- **Model Customization**: Easily switch between different reference and aggregate models to suit your needs.
+- **Model Customization**: Easily switch between different aggregate models to suit your needs.
 - **Parameter Tuning**: Adjust temperature, max tokens, and rounds to control the output's creativity and length.
 - **Multi-Turn Conversations**: Enable or disable context retention for more dynamic interactions.
-
-## Performance Insights
-
-While specific benchmarks are not provided, the MoA approach has shown significant improvements over single-model systems, potentially outperforming some commercial AI solutions in certain tasks.
 
 ## Contributing
 
