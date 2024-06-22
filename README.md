@@ -1,6 +1,6 @@
 # Mixture-of-Agents (MoA) Chat Application
 
-This is an advanced implementation of the Mixture-of-Agents (MoA) concept, adapted from the original work by Together Computer. This version is tailored for local model usage and features a user-friendly Gradio interface.
+This is an advanced implementation of the Mixture-of-Agents (MoA) concept, adapted from the original work by TogetherAI. This version is tailored for local model usage and features a user-friendly Gradio interface.
 
 ## What is MoA?
 
