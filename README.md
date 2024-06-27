@@ -30,14 +30,7 @@ Mixture of Agents (MoA) is a cutting-edge approach that leverages multiple Large
 
 1. Clone the repository and navigate to the project directory.
 
-2. Set up your environment:
-
-   ```shell
-   cp .env.example .env
-   vi .env
-   ```
-
-3. Install requirements:
+2. Install requirements:
 
    ```shell
    conda create -n moa python=3.10
